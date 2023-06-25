@@ -11,8 +11,8 @@
     <tbody>
         <tr>
             <td rowspan=1><a href="ctfs/0CTF">CCE</a></td>
-            <td><a href="ctfs/0CTF/2022">2023</a></td>
-            <td><a href="https://ctftime.org/event/1717/tasks/" target="_blank">CTFtime</a></td>
+            <td><a href="CTFs/0CTF/2022">2023</a></td>
+            <td><a href="" target="_blank">blog</a></td>
         </tr>
     </tbody>
 </table>
