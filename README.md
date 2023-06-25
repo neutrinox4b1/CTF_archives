@@ -10,7 +10,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=1><a href="ctfs/CCE">CCE</a></td>
+            <td rowspan=1><a href="CTFs/CCE">CCE</a></td>
             <td><a href="CTFs/CCE/2023/Quals">2023 Quals</a></td>
             <td><a href="" target="_blank">blog</a></td>
         </tr>
